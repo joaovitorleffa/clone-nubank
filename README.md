@@ -8,7 +8,7 @@ Nubank clone with React Native
 
 ## Getting Started
 #### 1. `yarn install`
-#### 2. `react-native run-adnroid` or `react-native run-ios`
+#### 2. `react-native run-android` or `react-native run-ios`
 
 ## References 
 [Clonando interface do Nubank (+ ANIMAÇÕES) com React Native | Diego Fernandes](https://www.youtube.com/watch?v=DDm0M_rZLJo&t=7s) by [Rocketseat](https://rocketseat.com.br/)
